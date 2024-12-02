@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ### 🏃 Running the Bot
 
 ```bash
-python linkedin_bot.py
+python LinkedIn_Auto_Connector_Bot.py
 ```
 The bot will log into your LinkedIn account and begin sending connection requests based on the search criteria provided in your SEARCH_LINK.
 
